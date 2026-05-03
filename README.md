@@ -26,10 +26,12 @@ Pages picks it up within ~60 seconds.
 The brand tokens (slate-blue background `#252B3B`, gold `#c4963a`, cream
 `#F5F0E6`, Georgia serif) live in `_shared.css`.
 
-## Outstanding placeholders (filled in once Kris confirms)
+## Outstanding placeholders
 
-- Privacy policy: registered office address for Betton Wines Ltd.
-- Support page: nothing pending.
-
-Both pages already use the approved effective date (2 May 2026) and the
-approved support email (`support@bettonwines.co.uk`).
+- Body strings still say "Wine Cloud" — placeholder pending the rebrand
+  pick on CAS-10. Sed pass at rebrand drop.
+- Otherwise filled: effective date 2 May 2026, support email
+  `support@bettonwines.co.uk`, data-controller line scoped to "Kris
+  Cattaneo, t/a Betton Wines, York, United Kingdom" per board decision
+  (sole-trader framing — Betton Wines Ltd does not exist as a UK
+  registered company; Apple enrollment is Individual under Kris).
